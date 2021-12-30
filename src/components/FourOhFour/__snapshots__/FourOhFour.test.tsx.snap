@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render 404 page 1`] = `
+<DocumentFragment>
+  <div
+    class="container"
+  >
+    <h1>
+      404
+    </h1>
+    <h2>
+      Strona nie została odnaleziona
+    </h2>
+    <a
+      class="btn btn-primary"
+      href="/"
+      role="button"
+      tabindex="0"
+    >
+      Powrót na stronę główną
+    </a>
+  </div>
+</DocumentFragment>
+`;

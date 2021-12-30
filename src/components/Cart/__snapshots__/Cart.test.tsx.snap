@@ -1,0 +1,105 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render cart component 1`] = `
+<DocumentFragment>
+  <div
+    class="container"
+  >
+    <h2>
+      Koszyk
+    </h2>
+    <div
+      class="accordion"
+    >
+      <div
+        class="card"
+      >
+        <div
+          class="card-header"
+        >
+          <div
+            class="row"
+          >
+            <div
+              class="col-sm-9"
+            >
+              Matematyka 1. Podręcznik. Zakres podstawowy
+            </div>
+            <div
+              class="col-sm-3"
+              style="display: flex; justify-content: flex-end; align-items: center;"
+            >
+              <button
+                class="btn btn-primary btn-sm"
+                style="width: 31px; height: 31px; margin: 5px;"
+                type="button"
+              >
+                +
+              </button>
+              1
+              <button
+                class="btn btn-primary btn-sm"
+                style="width: 31px; height: 31px; margin: 5px;"
+                type="button"
+              >
+                -
+              </button>
+              <button
+                class="btn btn-danger btn-sm"
+                style="width: 31px; height: 31px; margin: 5px;"
+                type="button"
+              >
+                <img
+                  alt="delete"
+                  src="deleteIcon.svg"
+                />
+              </button>
+            </div>
+          </div>
+        </div>
+        <div
+          class="accordion-collapse collapse"
+        >
+          <div
+            class="card-body"
+          >
+            <div
+              class="card-subtitle h6"
+            >
+              M. Karpiński, M. Dobrowolska, M. Braun, J. Lech
+            </div>
+            <p
+              class="card-text"
+            >
+              Liczba stron: 280
+            </p>
+            <p
+              class="card-text"
+            >
+              Cena: 32.00zł
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="d-flex justify-content-between align-items-center"
+    >
+      <h3>
+        Wartość zamówienia: 32.00zł
+      </h3>
+      <a
+        class="nav-link"
+        href="/checkout"
+      >
+        <button
+          class="btn btn-primary"
+          type="button"
+        >
+          DALEJ
+        </button>
+      </a>
+    </div>
+  </div>
+</DocumentFragment>
+`;

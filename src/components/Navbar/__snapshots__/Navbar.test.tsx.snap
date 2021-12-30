@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render navbar component 1`] = `
+<DocumentFragment>
+  <nav
+    class="navbar navbar-expand navbar-dark bg-primary"
+  >
+    <div
+      class="container"
+    >
+      <a
+        class="navbar-brand"
+        href="/"
+      >
+        Logo
+      </a>
+      <div
+        class="me-auto navbar-nav"
+      >
+        <a
+          class="nav-link"
+          href="/"
+        >
+          Książki
+        </a>
+        <a
+          class="nav-link"
+          href="/cart"
+        >
+          Koszyk 
+        </a>
+      </div>
+    </div>
+  </nav>
+</DocumentFragment>
+`;
