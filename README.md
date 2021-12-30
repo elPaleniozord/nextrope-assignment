@@ -1,25 +1,4 @@
 README.md
-Who has access
-P
-System properties
-Type
-Text
-Size
-2 KB
-Storage used
-2 KB
-Location
-Zadanie testowe - React Junior 2
-Owner
-Paulina Lewandowska
-Modified
-22 Sept 2021 by Paulina Lewandowska
-Opened
-13:24 by me
-Created
-29 Oct 2021
-No description
-Viewers can download
 # Zadanie rekrutacyjne
 Zadanie rekrutacyjne polega na napisaniu programu, który ma przedstawiać proces
  zakupowy książek (pobieranie danych o książkach z API, dodawanie i usuwanie
